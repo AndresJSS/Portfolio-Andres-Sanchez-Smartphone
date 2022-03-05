@@ -11745,13 +11745,6 @@ section#contact {
   background-position: bottom;
 }
 
-section#about {
-  background-color: #fff;
-  background-image: url("../assets/img/about/Photo2.png");
-  background-repeat: no-repeat;
-  background-position: 150% 3%;
-}
-
 section#contact .section-heading {
   color: #154360;
 }
