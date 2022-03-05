@@ -7682,7 +7682,7 @@ textarea.form-control-lg {
 }
 
 .text-about {
-  text-align-last: center !important;
+  text-align: center !important;
   margin-right:20%;
   line-height: normal;
   margin-bottom:2cm;
