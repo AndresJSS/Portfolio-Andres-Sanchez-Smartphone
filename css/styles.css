@@ -7682,7 +7682,7 @@ textarea.form-control-lg {
 }
 
 .text-about {
-  text-align: center !important;
+  text-align: right !important;
   margin-right:20%;
   line-height: normal;
   margin-bottom:2cm;
@@ -11325,7 +11325,6 @@ p {
   font-size: 1.3rem;
   font-weight: 400;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-align: center;
 }
 
 .page-section h3.section-subheading, .page-section .section-subheading.h3 {
